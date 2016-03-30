@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1459277830 source:c:\users\kb9ag\github\c-programs\computepower.c
+	<stdio.h>
+	<math.h>
+
+1459291376 source:c:\users\kb9ag\github\c-programs\daysconvertion.c
+	<stdio.h>
+
+1459291762 source:c:\users\kb9ag\github\c-programs\deletionofspecifiedinteger.c
+	<stdio.h>
+
+1459315897 source:c:\users\kb9ag\github\c-programs\rootofaquadraticequation.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<math.h>
+
+1459317503 source:c:\users\kb9ag\github\c-programs\sumofmainandoffdiagonals.c
+	<stdio.h>
+
+1459317905 source:c:\users\kb9ag\github\c-programs\swapingof3rdand4thelement.c
+	<stdio.h>
+
